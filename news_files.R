@@ -189,7 +189,7 @@ labeledTerms = labeledTerms[rowSums(abs(labeledTerms)) != 0,]
 ###############################################################################
 
 # set a seed so that the output of the model is predictable
-news_lda <- LDA(labeledTerms, k = 2, control = list(seed = 13))
+news_lda <- LDA(labeledTerms, k = 7, control = list(seed = 13))
 
 #The tidytext package provides this method for extracting the per-topic-per-word probabilities, 
 # called   β  (“beta”), from the model
