@@ -1,0 +1,11 @@
+March 19, 2018
+
+Pursuing Forensic Audits to Investigate Cambridge Analytica Claims
+Update on March 19, 2018, 3:25 PM PT: Independent forensic auditors from Stroz Friedberg were on site at Cambridge Analytica’s London office this evening. At the request of the UK Information Commissioner’s Office, which has announced it is pursuing a warrant to conduct its own on-site investigation, the Stroz Friedberg auditors stood down.
+
+Originally published March 19, 2018, 11:40 AM PT:
+We have hired a digital forensics firm, Stroz Friedberg, to conduct a comprehensive audit of Cambridge Analytica. Cambridge Analytica has agreed to comply and afford the firm complete access to their servers and systems. We have approached the other parties involved — Christopher Wylie and Aleksandr Kogan — and asked them to submit to an audit as well. Mr. Kogan has given his verbal agreement to do so. Mr. Wylie thus far has declined.
+
+This is part of a comprehensive internal and external review that we are conducting to determine the accuracy of the claims that the Facebook data in question still exists. This is data Cambridge Analytica, SCL, Mr. Wylie, and Mr. Kogan certified to Facebook had been destroyed. If this data still exists, it would be a grave violation of Facebook’s policies and an unacceptable violation of trust and the commitments these groups made.
+
+We are moving aggressively to determine the accuracy of these claims. We remain committed to vigorously enforcing our policies to protect people’s information. We also want to be clear that today when developers create apps that ask for certain information from people, we conduct a robust review to identify potential policy violations and to assess whether the app has a legitimate use for the data. We actually reject a significant number of apps through this process. Kogan’s app would not be permitted access to detailed friends’ data today.

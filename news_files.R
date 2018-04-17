@@ -9,7 +9,7 @@ install.packages("wordcloud")
 install.packages("topicmodels")
 install.packages("tm")
 
-
+library(tidyverse)
 library(dplyr) #we are going to use piping = my personal favourite
 # text mining library
 library(tidytext)
@@ -23,7 +23,8 @@ rm(list=ls(all=TRUE))
 #setwd("C:/Users/masha/OneDrive - Victoria University/research/Text Analysis")
 
 #setup the location of the files
-all_txt <- list.files(path="data/Facebook newsroom", pattern = ".txt$", full.names=TRUE)
+all_txt <- list.files(path="Facebook newsroom", pattern = ".txt$", full.names=TRUE)
+
 
 #lets read all txt files in the folder to a dataframe/tibble
 text<-map_df(all_txt, ~ data_frame(txt = paste(readLines(file(.x)), collapse=" ")) %>% 
@@ -35,7 +36,7 @@ write.csv(text, file="data/newsroom_text.csv", row.names=FALSE)
 #-------------------------Pre-processing
 
 #reload text if you do not have it!
-text<-read.csv("data/newsroom_text.csv")
+text<-read.csv("newsroom_text.csv")
 
 #lets tidy up!
 
@@ -44,24 +45,21 @@ replace_reg <- "https://[A-Za-z\\d]+|http://[A-Za-z\\d]"
 reg_words <- "([^A-Za-z_\\d#@']|'(?![A-Za-z_\\d#@]))"
 
 tidy_news<-text %>% 
-  
   # removes link
   mutate(txt = str_replace_all(txt, replace_reg, "")) %>%
-  
   #count number of words in each news 
   mutate(NWords=str_count(txt)) %>%
   
   #to unnest and lower case, remove numbers
   unnest_tokens(word, txt, drop=TRUE, token = "regex", pattern = reg_words, to_lower = TRUE) %>% 
-  
   #remove stop words
   filter(str_detect(word, "[a-z']$"), !word %in% stop_words$word) 
 
-write.csv(tidy_news, file="data/tidy_news.csv", row.names=FALSE)
+write.csv(tidy_news, file="tidy_news.csv", row.names=FALSE)
 
 # let's load file 2 - Transcript.txt
 
-transcript<-read_lines(file="C:/Users/masha/OneDrive - Victoria University/research/Text Analysis/data/Transcript.txt")
+transcript<-read_lines(file="Transcript.txt")
 transcript_df <- tibble(line = seq_along(transcript),
                   text = transcript)
 
@@ -70,18 +68,16 @@ tidy_transcript<-transcript_df %>%
   unnest_tokens(word, text) %>%
   anti_join(stop_words) 
 
-write.csv(tidy_transcript, file="data/tidy_transcript.csv", row.names=FALSE)
+write.csv(tidy_transcript, file="tidy_transcript.csv", row.names=FALSE)
 
 #--------------------Word frequencies and word clouds
 library(ggplot2)
 fillColor = "#FFA07A"
 
-
-
 #you can reload tidy_news.csv 
-tidy_transcript<-read.csv("data/tidy_transcript.csv")
+tidy_transcript<-read.csv("tidy_transcript.csv")
 
-tidy_news<-read.csv("data/tidy_news.csv")
+tidy_news<-read.csv("tidy_news.csv")
 
 #let's identify top 20 words in the news files
 tidy_news %>% count(word,sort = TRUE) %>%
@@ -141,7 +137,7 @@ library(stringr)
 #reload tidy_news if you do not have it!
 #make sure you reload tidy_news.csv files (=preprocessed text), not newsroom_text.csv (=raw)
 
-tidy_news<-read.csv("data/tidy_news.csv")
+tidy_news<-read.csv("tidy_news.csv")
 
 #positive vs non-positive news
 #AFINN dictionary
@@ -152,6 +148,7 @@ news_sentiments <- tidy_news %>%
   arrange(desc(scoreAFINN)) %>%
   ungroup()
 
+ggplot(news_sentiments,aes(x=filename,fill=factor(score))) + geom_bar(geom="dodge",position="fill") + coord_flip()
 
 #--------------------Topic Modelling
 library(topicmodels)
@@ -160,7 +157,7 @@ library(tm)
 
 #reload text if you do not have it!
 #make sure you reload newsroom_text.csv (=raw file) - we are going to use tm package to pre-process it
-text<-read.csv("data/newsroom_text.csv")
+text<-read.csv("newsroom_text.csv")
 
 
 #let's use tm package!
@@ -210,6 +207,7 @@ news_top_terms %>%
   geom_col(show.legend = FALSE) +
   facet_wrap(~ topic, scales = "free") +
   coord_flip() + theme_bw()
+
 
 
 

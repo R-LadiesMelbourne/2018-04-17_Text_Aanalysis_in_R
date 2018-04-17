@@ -1,0 +1,16 @@
+March 7, 2018
+
+Introducing Video Chat in Messenger Lite
+
+Today we’re thrilled to introduce video chat in Messenger Lite, a slimmed down version of Messenger for Android that offers the core features of the app while giving everyone the opportunity to stay connected to their friends and family, intended for people with older Android devices and/or slower Internet connections.
+
+Video chats are an expected and essential part of everyday communication in today’s messaging experience. Chatting face-to-face live is perfect for those moments when you want to see and hear the voices of people you care about most – whether you’re wishing someone a happy birthday, you have some great news to share, or you spontaneously want to catch up on the day.
+
+Video chats are incredibly popular for people who use the Messenger core app. In 2017, there were 17 billion video chats in Messenger, twice as many video chats compared to 2016. Now people who use Messenger Lite can have the same rich and expressive face-to-face conversations as those who use the core Messenger app, no matter which technology they use or have access to.
+
+Messenger Lite offers core messaging capabilities like sending text, photos, links, and audio calls to people with either Messenger Lite or Messenger. Messenger Lite is under 10MB, making it fast to install and quick to start up.
+
+Here’s how it works: to get started, make sure you have the latest version of Messenger Lite. Open an existing conversation or find the person you’d like to chat with in your contact list, then tap the video icon on the upper right corner of the screen. You can also upgrade an audio call to a video chat while still in the call by tapping the video icon in the bottom right corner of the screen.
+
+
+We’re excited to bring you the ability to have face-to-face conversations with those who matter the most to you, wherever they are. We’re rolling this out starting today and look forward to hearing what you think.

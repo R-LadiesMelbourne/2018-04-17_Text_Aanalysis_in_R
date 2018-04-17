@@ -1,0 +1,28 @@
+March 19, 2018
+
+Testing New Tools and Experiences for Creators
+By Fidji Simo, VP of Product and Sibyl Goldman, Director of Entertainment Partnerships
+
+Every day on Facebook, creators use video to bring their communities together around common passions.
+
+We’ve been working closely with creators to understand what they need to be successful on Facebook. To support them, we’re focused on three areas: helping them engage and grow their community, manage their presence, and build a business on Facebook. We’re already investing deeply in these areas — like with the Facebook Creator app and Facebook for Creators site we introduced last year. In the coming months, we’ll be testing a range of new tools for creators. We’re still in an experimental phase and will be iterating on these tests in the coming months, but we want to share a preview of what we’re working on.
+
+Engaging and Growing Creators’ Communities
+We’re committed to giving creators great ways to share and build connections with their community. For example, creators like Sebastian Villalobos use Live and Live With to talk in real time with their fans. Markian shares moments from his day using Facebook Stories, and many creators have Groups where fans can more deeply engage with each other – like Tessa Netting’s superfan Group. We’re also exploring ways to bring people together around video, like with Watch Party.
+
+As we continue to help creators build relationships with their audiences, we’re going to make it easier to identify and connect with their most passionate fans. We’re starting a new test that highlights a creator’s top fans by displaying a badge next to their names and adding their name to a leaderboard of highly engaged fans. We’ll identify top fans based on how often they comment, share, react or watch a creator’s content, as well as the creator’s interactions with the fan and other criteria. Fans will opt into this experience, and they can turn off the feature at any time. This test will start with a small set of creators in the coming weeks.
+
+Managing Creators’ Presence on Facebook
+We need to make it easy for creators to manage their presence on Facebook. We’ve always offered detailed Page Insights to help people understand how their posts perform, and last year we rolled out our Facebook for Creators website and Creator app on iOS globally. Thousands of creators including Belly Full, Wuz Good, Juanma Salazar, Archana’s Kitchen, and LeJuan James are using the Creator app to get insights about their audience and more easily talk and share with fans. We’re working to bring the Facebook Creator app to Android soon.
+
+We are always looking for more opportunities to help creators manage their content on Facebook, and are now testing a content rights management tool designed specifically for creators. This new version of our Rights Manager tool includes simplified and more automated capabilities, which we hope will make it easier for people to use the system and get recognition for their work.
+
+Building a Business on Facebook
+As creators spend more time making content and engaging with their fans, they want to be able to earn money for their work. We plan to offer a range of monetization options to serve the wide range of creators at various stages of their journeys. Today any creator can use branded content to extend their existing brand deals onto Facebook. We’ve also made Ad Breaks available to a small set of creators creating shows for Watch. Creators who would like to make and monetize shows for Watch can register their interest here.
+
+In the coming months, we’re going to explore two new monetization features for creators. First is a tool that helps advertisers and creators easily connect for branded content opportunities on Facebook. Creators participating in the test can set up a portfolio highlighting their area of expertise, and advertisers can search and find creators to collaborate on compelling branded content campaigns. Additionally, we’ll be testing a way for fans to become a supporter of the creators they love. Fans will have the option to support the creator with a monthly payment in exchange for perks like exclusive content and a badge highlighting their status as a supporter. We’ll start testing with a small set of creators so we can gather feedback from them and their fans before expanding. (Note that testing this feature means the Facebook app will now include an “In App Purchase” label in the App Store and Google Play.)
+
+Collaborative Development with Creators
+We’re excited about all of the things we’ll be building this year and know there’s a lot more yet to do. To help us learn and build the things creators want and need, we will be piloting a product testing program with a small group of creators, which will include many of the tools mentioned above. Creators in this program will get access to early test features and will spend time with our team to provide frequent and direct feedback. The goal of this collaborative product test is to help us more quickly iterate and build experiences that will benefit our entire creator community.
+
+We encourage creators to join the Facebook for Creators community at facebook.com/creators/join to be considered for product testing opportunities and be notified about when new features become available.

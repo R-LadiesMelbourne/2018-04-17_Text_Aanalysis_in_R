@@ -1,0 +1,33 @@
+April 4, 2018
+
+An Update on Our Plans to Restrict Data Access on Facebook
+By Mike Schroepfer, Chief Technology Officer
+
+Two weeks ago we promised to take a hard look at the information apps can use when you connect them to Facebook as well as other data practices. Today, we want to update you on the changes we’re making to better protect your Facebook information. We expect to make more changes over the coming months — and will keep you updated on our progress. Here are the details of the nine most important changes we are making.
+
+Events API: Until today, people could grant an app permission to get information about events they host or attend, including private events. This made it easy to add Facebook Events to calendar, ticketing or other apps. But Facebook Events have information about other people’s attendance as well as posts on the event wall, so it’s important that we ensure apps use their access appropriately. Starting today, apps using the API will no longer be able to access the guest list or posts on the event wall. And in the future, only apps we approve that agree to strict requirements will be allowed to use the Events API.
+
+Groups API: Currently apps need the permission of a group admin or member to access group content for closed groups, and the permission of an admin for secret groups. These apps help admins do things like easily post and respond to content in their groups. However, there is information about people and conversations in groups that we want to make sure is better protected. Going forward, all third-party apps using the Groups API will need approval from Facebook and an admin to ensure they benefit the group. Apps will no longer be able to access the member list of a group. And we are also removing personal information, such as names and profile photos, attached to posts or comments that approved apps can access.
+
+Pages API: Until today, any app could use the Pages API to read posts or comments from any Page. This let developers create tools for Page owners to help them do things like schedule posts and reply to comments or messages. But it also let apps access more data than necessary. We want to make sure Page information is only available to apps providing useful services to our community. So starting today, all future access to the Pages API will need to be approved by Facebook.
+
+Facebook Login: Two weeks ago we announced important changes to Facebook Login. Starting today, Facebook will need to approve all apps that request access to information such as check-ins, likes, photos, posts, videos, events and groups. We started approving these permissions in 2014, but now we’re tightening our review process — requiring these apps to agree to strict requirements before they can access this data. We will also no longer allow apps to ask for access to personal information such as religious or political views, relationship status and details, custom friends lists, education and work history, fitness activity, book reading activity, music listening activity, news reading, video watch activity, and games activity. In the next week, we will remove a developer’s ability to request data people shared with them if it appears they have not used the app in the last 3 months.
+
+Instagram Platform API: We’re making the recently announced deprecation of the Instagram Platform API effective today. You can find more information here.
+
+Search and Account Recovery: Until today, people could enter another person’s phone number or email address into Facebook search to help find them. This has been especially useful for finding your friends in languages which take more effort to type out a full name, or where many people have the same name. In Bangladesh, for example, this feature makes up 7% of all searches. However, malicious actors have also abused these features to scrape public profile information by submitting phone numbers or email addresses they already have through search and account recovery. Given the scale and sophistication of the activity we have seen, we believe most people on Facebook could have had their public profile scraped in this way. So we have now disabled this feature. We’re also making changes to account recovery to reduce the risk of scraping as well.
+
+Call and Text History: Call and text history is part of an opt-in feature for people using Messenger or Facebook Lite on Android. This means we can surface the people you most frequently connect with at the top of your contact list. We’ve reviewed this feature to confirm that Facebook does not collect the content of messages — and will delete all logs older than one year. In the future, the client will only upload to our servers the information needed to offer this feature — not broader data such as the time of calls.
+
+Data Providers and Partner Categories: Last week we announced our plans to shut down Partner Categories, a product that lets third-party data providers offer their targeting directly on Facebook.
+
+App Controls: Finally, starting on Monday, April 9, we’ll show people a link at the top of their News Feed so they can see what apps they use — and the information they have shared with those apps. People will also be able to remove apps that they no longer want. As part of this process we will also tell people if their information may have been improperly shared with Cambridge Analytica.
+
+
+Updated April 9, 2017: Three versions of the messages we’re sending to people based on whether they’ve been affected by the app “This Is Your Digital Life.” These messages link to facebook.com/help/yourinfo.
+
+In total, we believe the Facebook information of up to 87 million people — mostly in the US — may have been improperly shared with Cambridge Analytica.
+
+
+
+Overall, we believe these changes will better protect people’s information while still enabling developers to create useful experiences. We know we have more work to do — and we’ll keep you updated as we make more changes. You can find more details on the platform changes in our Facebook Developer Blog.

@@ -1,0 +1,21 @@
+March 25, 2018
+
+Fact Check: Your Call and SMS History
+You may have seen some recent reports that Facebook has been logging people’s call and SMS (text) history without their permission.
+
+This is not the case.
+
+Opt-in Features in Facebook Lite and Messenger
+Call and text history logging is part of an opt-in feature for people using Messenger or Facebook Lite on Android. This helps you find and stay connected with the people you care about, and provides you with a better experience across Facebook. People have to expressly agree to use this feature. If, at any time, they no longer wish to use this feature they can turn it off in settings, or here for Facebook Lite users, and all previously shared call and text history shared via that app is deleted. While we receive certain permissions from Android, uploading this information has always been opt-in only.
+
+We introduced this feature for Android users a couple of years ago. Contact importers are fairly common among social apps and services as a way to more easily find the people you want to connect with. This was first introduced in Messenger in 2015, and later offered as an option in Facebook Lite, a lightweight version of Facebook for Android.
+
+How It Works
+When you sign up for Messenger or Facebook Lite on Android, or log into Messenger on an Android device, you are given the option to continuously upload your contacts as well as your call and text history. For Messenger, you can either turn it on, choose ‘learn more’ or ‘not now’. On Facebook Lite, the options are to turn it on or ‘skip’. If you chose to turn this feature on, we will begin to continuously log this information, which can be downloaded at any time using the Download Your Information tool.
+
+
+
+If, at any point, you no longer wish to continuously upload this information, you can easily turn this feature off in your settings. You can also turn off continuous call and text history logging while keeping contact uploading enabled. You can also go to this page to see which contacts you have uploaded from Messenger, and you can delete all contact information you’ve uploaded from that app should you choose.
+
+We never sell this data, and this feature does not collect the content of your text messages or calls
+When this feature is enabled, uploading your contacts also allows us to use information like when a call or text was made or received. This feature does not collect the content of your calls or text messages. Your information is securely stored and we do not sell this information to third parties. You are always in control of the information you share with Facebook.

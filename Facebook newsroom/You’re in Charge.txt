@@ -1,0 +1,24 @@
+March 21, 2018
+
+You’re in Charge: Messenger Group Chats Are Now Better Than Ever
+
+By Drew Moxon, Messenger Product Manager
+
+Bringing groups of people together is powerful, and at Messenger, we’re always thinking about how we can improve group chats – especially since 2.5 million new groups were created on Messenger every day last year. Today we’re excited to start rolling out new, widely-requested Messenger features that make your group chat experience more robust and seamless by giving you more control – whether you’re planning a weekend trip with friends, chatting about a new episode of your favorite show with likeminded fans, or catching up with your family.
+
+Admin privileges allow you to approve new members before they join your group chat. This is especially helpful in large group chats with people you may not yet be connected to, like when you’re planning a friend’s surprise birthday party with different groups of friends. Admins also have the ability to remove members if needed, and promote or demote any other person in the group chat as an admin.
+
+
+The great thing about admin privileges in Messenger is they work in the background; if your group chat doesn’t need that level of control, it won’t get in the way of your group messaging. You’ll have the option to decide if you’d like admin approval for approving new members, but this preference is off by default in your group chat settings. Admin privileges in Workplace Chat are also rolling out today, learn more here.
+
+We’re also making it easier to add new people to group chats with joinable links. Anyone in a group chat can create a custom invite link and share it with someone they’d like to join the conversation. People who tap the link will either be added to the group automatically if approvals are off, or will be added once the admin has approved the request.
+
+By chatting with up to 250 people in a group at a time, group chats are fun, useful, and seamless at the same time. And admin privileges and joinable links are just a few of the great group chat features in Messenger:
+
+Last year we introduced several new features including @mentions, making it easy to jump right back in to the conversation to answer someone’s question or to provide a response
+We also introduced reactions, giving you an option to quickly show acknowledgement or express how you feel in an easy way with an emoji
+Group payments make it easy to get paid back whether you’re splitting a restaurant bill or chipping in for a group gift.
+There are also fun ways to customize group chats, making conversations more delightful with custom emoji, nicknames, a photo, and text color.
+You can also have realtime voice and video chats in groups with up to 50 people at a time, and now you can add friends and family to your in-progress voice and video chats without having to interrupt the conversation, making sure no one misses out.
+
+Messenger is a great way to connect to the groups of people you care about most – helping you spend time together online or even better, making plans to spend time together in real life. We’re looking forward to hearing what you think as we roll out these new group chat features!

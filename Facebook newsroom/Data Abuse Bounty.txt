@@ -1,0 +1,16 @@
+April 10, 2018
+
+Data Abuse Bounty: Facebook Now Rewards for Reports of Data Abuse
+By Collin Greene, Head of Product Security
+
+Today, Facebook is launching the Data Abuse Bounty to reward people who report any misuse of data by app developers.
+
+We committed to launching this program a few weeks ago as part of our efforts to more quickly uncover potential abuse of people’s information. The Data Abuse Bounty, inspired by the existing bug bounty program that we use to uncover and address security issues, will help us identify violations of our policies.
+
+
+
+This program will reward people with first-hand knowledge and proof of cases where a Facebook platform app collects and transfers people’s data to another party to be sold, stolen or used for scams or political influence. Just like the bug bounty program, we will reward based on the impact of each report. While there is no maximum, high impact bug reports have garnered as much as $40,000 for people who bring them to our attention.
+
+We’ll review all legitimate reports and respond as quickly as possible when we identify a credible threat to people’s information. If we confirm data abuse, we will shut down the offending app and take legal action against the company selling or buying the data, if necessary. We’ll pay the person who reported the issue, and we’ll also alert those we believe to be affected.
+
+This program is the first of its kind so it will change as we learn and get your feedback. For more information, please visit: facebook.com/data-abuse

@@ -1,0 +1,41 @@
+April 9, 2018
+
+Facebook Launches New Initiative to Help Scholars Assess Social Media’s Impact on Elections
+By Elliot Schrage, Vice President of Communications and Public Policy, and David Ginsberg, Director of Research
+
+Today, Facebook is announcing a new initiative to help provide independent, credible research about the role of social media in elections, as well as democracy more generally. It will be funded by the Laura and John Arnold Foundation, Democracy Fund, the William and Flora Hewlett Foundation, the John S. and James L. Knight Foundation, the Charles Koch Foundation, the Omidyar Network, and the Alfred P. Sloan Foundation.
+
+At the heart of this initiative will be a group of scholars who will:
+
+Define the research agenda;
+Solicit proposals for independent research on a range of different topics; and
+Manage a peer review process to select scholars who will receive funding for their research, as well as access to privacy-protected datasets from Facebook which they can analyze.
+Facebook will not have any right to review or approve their research findings prior to publication.
+
+We’re excited about this initiative for two important reasons.
+
+First, we think it’s an important new model for partnerships between industry and academia. Second, the last two years have taught us that the same Facebook tools that help politicians connect with their constituents — and different communities debate the issues they care about — can also be misused to manipulate and deceive.
+
+We have made real progress since Brexit and the 2016 US presidential election in fighting fake news, as well as combating foreign interference, in elections in France, Germany, Alabama and Italy. But there is much more to do — and we don’t have all the answers. This initiative will enable Facebook to learn from the advice and analysis of outside experts so we can make better decisions — and faster progress.
+
+In consultation with the foundations funding the initiative, Facebook will invite respected academic experts to form a commission which will then develop a research agenda about the impact of social media on society — starting with elections. The focus will be entirely forward looking. And our goals are to understand Facebook’s impact on upcoming elections — like Brazil, India, Mexico and the US midterms — and to inform our future product and policy decisions. The initial term of the commission will be one year and membership will be determined in the coming weeks. We are keen to have a broad range of experts — with different political outlooks, expertise and life experiences, gender, ethnicity and from a broad range of countries.
+
+The commission will exercise its mandate in several ways:
+
+Prioritization of research agenda. The research sponsored by this effort is designed to help people better understand social media’s impact on democracy — and Facebook to ensure that it has the right systems in place. For example, will our current product roadmap effectively fight the spread of misinformation and foreign interference? Specific topics may include misinformation; polarizing content; promoting freedom of expression and association; protecting domestic elections from foreign interference; and civic engagement. Commission members will learn about Facebook’s internal efforts related to elections, and source input from the academic community to determine the most important unanswered research questions. They will also begin to work with international experts to develop research evaluating Facebook’s impact in upcoming elections — with the goal of identifying and mitigating possible negative effects.
+
+Solicitation of independent research. As the commission identifies areas to assess Facebook’s effectiveness, it will work with Facebook to develop requests for research proposals. In accordance with standard academic protocols, proposals will be subject to rigorous peer view. The peer review process will be managed by the Social Science Research Council, which is well placed to tap into the global network of substantive, ethical, and privacy experts. Based on input from the peer review process, the commission will independently select grantees who will receive funds from the supporting foundations, and, when appropriate, privacy-protected data from Facebook.
+
+Providing access to information while protecting privacy. Once the commission identifies the most important questions, we are committed to helping grantees obtain the right data to answer them. Sometimes these datasets will come from Facebook, and sometimes they will come from other sources like surveys or focus groups.
+
+Fundamental to this entire effort is ensuring that people’s information is secure and kept private. Facebook and our funding partners recognize the threat presented by the recent misuse of Facebook data, including by an academic associated with Cambridge Analytica. At the same time, we believe strongly that the public interest is best served when independent researchers have access to information. And we believe that we can achieve this goal while ensuring that privacy is preserved and information kept secure.
+
+Any proposal submitted through this process must first have been reviewed by a university Institutional Review Board (IRB), or the international equivalent. And when Facebook data is requested, proposals will be subject to additional review by Facebook’s privacy and research review teams — as well as external privacy experts that the commission identifies. These reviews will help ensure that Facebook acts in accordance with its legal and ethical obligations to the people who use our service, as well as the academic and ethical integrity of the research process.
+
+Facebook is building a dedicated team to work with the commission and academic researchers to develop the approved, privacy-protected datasets, which will be kept exclusively on Facebook’s global network of secure servers and subject to continuous audit. The commission will oversee publication, ensuring that only aggregated, anonymized results are reported. It will also develop a process to apply for data access for purposes of replication.
+
+Independent and transparent reporting. Facebook and the foundations funding this project are committed to transparency around the rationale for the structure and membership of the commission. Once established, the commission will have the authority to regularly report on its activities and Facebook’s. This will include the decision-making criteria guiding both the research agenda and scholar selection. And the research coming from this initiative will be public, and Facebook will not approve it before it’s published.
+
+Facebook plays an important role in elections around the world — helping people connect and discuss the important issues of the day. We were slow to spot foreign interference in the 2016 US presidential elections, as well as issues with fake accounts and fake news. Our teams have made good progress since then. By working with the academic community, we can help people better understand the broader impact of social media on democracy — as well as improve our work to protect the integrity of elections.
+
+Gary King of Harvard University and Nate Persily of Stanford Law School have been instrumental in developing this innovative model for academic collaboration. You can read more about their model here.

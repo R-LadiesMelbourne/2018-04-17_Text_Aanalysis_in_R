@@ -1,0 +1,129 @@
+March 29, 2018
+
+Hard Questions: What is Facebook Doing to Protect Election Security?
+
+Hard Questions is a series from Facebook that addresses the impact of our products on society.
+
+Last fall Mark Zuckerberg announced the steps we’re taking to protect elections from abuse and exploitation. Given all the work underway, we want to provide regular updates on what we’re doing and the progress we’re making. Today, leaders from Facebook spoke with members of the press to review our ongoing election efforts. The following is a transcript of their remarks.
+
+Guy Rosen, VP of Product Management
+
+Morning everyone, I’m Guy Rosen, and I help coordinate all of the safety and security work underway here at Facebook.
+
+By now, everyone knows the story: during the 2016 US election, foreign actors tried to undermine the integrity of the electoral process. Their attack included taking advantage of open online platforms — such as Facebook — to divide Americans, and to spread fear, uncertainty and doubt.
+
+Now, none of us can turn back the clock, but we are all responsible for making sure the same kind of attack our democracy does not happen again. And we are taking our role in that effort very, very seriously.
+
+Today, we’re going to outline how we’re thinking about elections, and give you an update on a number of initiatives designed to protect and promote civic engagement on Facebook.
+
+There are four main election security areas that we are working on. They are:
+
+First, combating foreign interference,
+Second, removing fake accounts,
+Third, increasing ads transparency, and
+Fourth, reducing the spread of false news.
+This is a comprehensive approach we deploy in elections around the world, and we’re here today to share our thinking about what we are doing so that you can better understand our approach.
+
+Now, I’ll turn it over to Alex.
+
+Alex Stamos, Chief Security Officer
+
+Thanks, Guy. Good morning everyone, I’m Alex Stamos, Facebook’s Chief Security Officer, and I would like to discuss how we think about different types of misinformation — and the adversaries who propagate it.
+
+When you tease apart the overall digital misinformation problem, you find multiple types of bad content and many bad actors with different motivations. It is important to match the right approach to these various challenges. And that requires not just careful analysis of what has happened. We also have to have the most up to date intelligence to understand completely new types of misinformation.
+
+The term “fake news” is used to describe a lot of different types of activity that we would like to prevent. When we study these issues, we have to first define what is actually “fake.” The most common issues are:
+
+Fake identities– this is when an actor conceals their identity or takes on the identity of another group or individual;
+Fake audiences– so this is using tricks to artificially expand the audience or the perception of support for a particular message;
+False facts – the assertion of false information; and
+False narratives– which are intentionally divisive headlines and language that exploit disagreements and sow conflict. This is the most difficult area for us, as different news outlets and consumers can have completely different opinions on what an appropriate narrative is even if they agree on the facts.
+Once we have an understanding of the various kinds of “fake” we need to deal with, we then need to distinguish between motivations for spreading misinformation. Because our ability to combat different actors is based upon preventing their ability to reach these goals.
+
+The most common motivation for organized, professional groups is money. The majority of misinformation we have found, by both quantity and reach, has been created by groups who gain financially by driving traffic to sites they own. When we’re fighting financially motivated actors, our goal is to increase the cost of their operations while driving down their profitability. This is not wholly unlike how we have countered various types of spammers in the past.
+
+The second class of organized actors are the ones who are looking to artificially influence public debate. These cover the spectrum from private but ideologically motivated groups to full-time employees of state intelligence services. Their targets might be foreign or domestic, and while much of the public discussion has been about countries trying to influence the debate abroad, we also must be on guard for domestic manipulation using some of the same techniques.
+
+Misinformation can also be spread by less organized groups or individuals. These might be people who enjoy causing chaos and disruption, who you might call a classic internet “troll.” Or they might be innocent users who share a false story without realizing that the story or the person pushing it are fake.
+
+Some groups might have multiple motivations — for example, some ideologically driven groups are also self-funded via the ad money they generate from their sites.
+
+Each country we operate in and election we are working to support will have a different range of actors with techniques are customized for that specific audience. We are looking ahead by studying each upcoming election and working with external experts to understand the actors involved and the specific risks in each country. We are then using this process to guide how we build and train teams with the appropriate local language and cultural skills.
+
+
+
+At the end of the day, we’re trying to develop a systematic and comprehensive approach to tackle these challenges, and then to map that approach to the needs of each country or election.
+
+Let me turn it now to Samidh to outline some of our specific product efforts.
+
+Samidh Chakrabarti, Product Manager
+
+Thanks, Alex. I’m Samidh Chakrabarti, I’m a product manager here at Facebook and I lead all of our product work related to elections security and civic engagement.
+
+Let me start with our ongoing efforts to fight fake accounts — because that’s one of the most frequent ways that we see bad actors try to hide behind false identities. Over the past year, we’ve gotten increasingly better at finding and disabling fake accounts. We’re now at the point that we block millions of fake accounts each day at the point of creation before they can do any harm. We’ve been able to do this thanks to advances in machine learning, which have allowed us to find suspicious behaviors — without assessing the content itself.
+
+Now our work also includes a new investigative tool that we can deploy in the lead-up to elections. I’d love to tell you a little bit about how it works.
+
+Rather than wait for reports from our community, we now proactively look for potentially harmful types of election-related activity, such as Pages of foreign origin that are distributing inauthentic civic content. If we find any, we then send these suspicious accounts to be manually reviewed by our security team to see if they violate our Community Standards or our Terms of Service.
+
+And if they do, we can quickly remove them from Facebook. This proactive approach has allowed us to move more quickly and has become an important way for us to prevent misleading or divisive memes from going viral.
+
+Now as Mark briefly mentioned last week, we first piloted this tool last year around the time of the Alabama special Senate race. By looking specifically for foreign interference, we were able to identify a previously unknown set Macedonian political spammers that appeared to be financially motivated. We then quickly blocked them from our platform.
+
+We’ve since used this in many places around the world, such as in the Italian election, and we’ll deploy it moving forward for elections around the globe, including the US midterms.
+
+Let me close by saying that to support these and other security initiatives, we are making huge investments both in technology and in talent. This year, for example, we are doubling the number of people who work on safety issues overall from 10,000 to 20,000, and that includes content reviewers, systems engineers and security experts. So far, I’m pleased to say we’re on track, and our defenses are steadily coming together for the US midterms.
+
+Now let me now turn to my colleague Tessa.
+
+Tessa Lyons, Product Manager
+
+Thanks, Samidh. I’m Tessa Lyons. I’m a Product Manager on News Feed and I focus on false news.
+
+We know that people want to see accurate information on Facebook – and so do we. So we’re working hard to stop the spread of false news.
+
+Today, I want to talk about one part of our strategy: our partnership with third-party fact-checking organizations. We’re seeing progress in our ability to limit the spread of articles rated false by fact-checkers, and we’re scaling our efforts.
+
+Here’s how it works:
+
+We use signals, including feedback from people on Facebook, to predict potentially false stories for fact-checkers to review.
+When fact-checkers rate a story as false, we significantly reduce its distribution in News Feed — dropping future views on average by more than 80%.
+We notify people who’ve shared the story in the past and warn people who try to share it going forward.
+For those who still come across the story in their News Feed, we show more information from fact-checkers in a Related Articles unit.
+We use the information from fact-checkers to train our machine learning model, so that we can catch more potentially false news stories and do so faster.
+We know that we will always be behind if we’re just going after individual stories — so we also take action against Pages and domains that repeatedly share false news. We reduce their distribution and remove their ability to advertise and monetize – stopping them from reaching, growing, or profiting from their audience.
+
+
+
+We’re ramping up our fact-checking efforts to fight false news around elections. We’re scaling in the US and internationally, expanding beyond links to photos and videos, and increasing transparency.
+
+In the US, we recently announced a partnership with The Associated Press to use their reporters in all 50 states to identify and debunk false and misleading stories related to the federal, state and local US midterm elections.
+Internationally, we have fact-checking partners in six countries and we’re working to expand to more. Our most recent launches were in Italy and Mexico, where we enabled fact-checking partners to proactively identify and rate stories, ensuring we could take action quickly in the run-up to their elections.
+As of yesterday, we’re fact-checking photos and videos, in addition to links. We’re starting in France with the AFP and will be scaling to more countries and partners soon.
+And, over the coming months, we’ll be taking additional steps to increase transparency around our fact-checking efforts, including clearer notifications to Page admins and greater clarity around the appeals process.
+Finally, we know we can’t go it alone. So we’re doubling down on our partnerships with academics, technology companies and other partners.
+
+Now, let me turn it over to Rob Leathern, to talk about ads transparency.
+
+Rob Leathern, Product Management Director
+
+Thanks, I’m Rob Leathern and I’m on the ads team. We believe people should be able to easily understand why they’re seeing ads, who paid for them, and what other ads that advertiser is running. Last fall we announced we will build a new transparency feature for all ads on Facebook and provide additional transparency for US federal election-related ads.
+
+Already we’ve been testing transparency across all ads in Canada, something we call View Ads. With it, you can click on any Facebook Page, and select About, and scroll to View Ads. There you’ll see all ads that Page is running across Facebook — not just the ones meant for you. This summer we’ll make that feature globally available.
+
+Next we’ll build on our ads review process and begin authorizing US advertisers placing political ads. This spring, in the run up to the US midterm elections, advertisers will have to verify and confirm who they are and where they are located in the US. The process will include a number of checks and steps:
+
+First, Page admins will have to submit their government-issued IDs and provide a physical mailing address for verification,
+Second, we’ll confirm each address by mailing a letter with a unique access code that only their specific Facebook account can use, and,
+Third, advertisers will also have to disclose what candidate, organization or business they represent.
+Once authorized, an advertiser’s election-related ads will be clearly marked in people’s Facebook and Instagram feeds. This is similar to the disclosure you see today for political ads on TV. The political label will also list the person, company, or organization that paid for the ad with a “paid for by” disclosure.
+
+This summer, we’ll launch a public archive showing all ads that ran with a political label. Beyond the ad creative itself, we’ll also show how much money was spent on each ad, the number of impressions it received, and the demographic information about the audience reached. And we will display those ads for four years after they ran. So researchers, journalists, watchdog organizations, or individuals who are just curious will be able to see all of these ads in one place. This will offer an unmatched view of paid political messages on the platform.
+
+We recognize this is a place to start and will work with outside experts to make it better. We also look forward to bringing unprecedented advertising transparency to other countries and other political races.
+
+Now I’ll turn it back to Guy to wrap up.
+
+Guy Rosen, VP of Product Management
+
+Thanks. Let me close with a last — but very important — point about why we’re even doing this work: because civic discourse is something we at Facebook strongly believe in. And we know it can thrive on our platform when it’s safe, it’s authentic and it’s accurate. That’s our goal and that’s why we are taking all of the steps we just outlined.

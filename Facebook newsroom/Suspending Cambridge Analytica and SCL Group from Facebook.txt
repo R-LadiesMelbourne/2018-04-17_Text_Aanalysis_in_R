@@ -1,0 +1,33 @@
+March 16, 2018
+
+Suspending Cambridge Analytica and SCL Group from Facebook
+By Paul Grewal, VP & Deputy General Counsel
+
+Update on March 17, 2018, 9:50 AM PT: The claim that this is a data breach is completely false. Aleksandr Kogan requested and gained access to information from users who chose to sign up to his app, and everyone involved gave their consent. People knowingly provided their information, no systems were infiltrated, and no passwords or sensitive pieces of information were stolen or hacked.
+
+Originally published on March 16, 2018:
+We are suspending Strategic Communication Laboratories (SCL), including their political data analytics firm, Cambridge Analytica, from Facebook. Given the public prominence of this organization, we want to take a moment to explain how we came to this decision and why.
+
+We Maintain Strict Standards and Policies
+
+Protecting people’s information is at the heart of everything we do, and we require the same from people who operate apps on Facebook. In 2015, we learned that a psychology professor at the University of Cambridge named Dr. Aleksandr Kogan lied to us and violated our Platform Policies by passing data from an app that was using Facebook Login to SCL/Cambridge Analytica, a firm that does political, government and military work around the globe. He also passed that data to Christopher Wylie of Eunoia Technologies, Inc.
+
+Like all app developers, Kogan requested and gained access to information from people after they chose to download his app. His app, “thisisyourdigitallife,” offered a personality prediction, and billed itself on Facebook as “a research app used by psychologists.” Approximately 270,000 people downloaded the app. In so doing, they gave their consent for Kogan to access information such as the city they set on their profile, or content they had liked, as well as more limited information about friends who had their privacy settings set to allow it.
+
+Although Kogan gained access to this information in a legitimate way and through the proper channels that governed all developers on Facebook at that time, he did not subsequently abide by our rules. By passing information on to a third party, including SCL/Cambridge Analytica and Christopher Wylie of Eunoia Technologies, he violated our platform policies. When we learned of this violation in 2015, we removed his app from Facebook and demanded certifications from Kogan and all parties he had given data to that the information had been destroyed. Cambridge Analytica, Kogan and Wylie all certified to us that they destroyed the data.
+
+Breaking the Rules Leads to Suspension
+
+Several days ago, we received reports that, contrary to the certifications we were given, not all data was deleted. We are moving aggressively to determine the accuracy of these claims. If true, this is another unacceptable violation of trust and the commitments they made. We are suspending SCL/Cambridge Analytica, Wylie and Kogan from Facebook, pending further information.
+
+We are committed to vigorously enforcing our policies to protect people’s information. We will take whatever steps are required to see that this happens. We will take legal action if necessary to hold them responsible and accountable for any unlawful behavior.
+
+How Things Have Changed
+
+We are constantly working to improve the safety and experience of everyone on Facebook. In the past five years, we have made significant improvements in our ability to detect and prevent violations by app developers. Now all apps requesting detailed user information go through our App Review process, which requires developers to justify the data they’re looking to collect and how they’re going to use it – before they’re allowed to even ask people for it.
+
+In 2014, after hearing feedback from the Facebook community, we made an update to ensure that each person decides what information they want to share about themselves, including their friend list. This is just one of the many ways we give people the tools to control their experience. Before you decide to use an app, you can review the permissions the developer is requesting and choose which information to share. You can manage or revoke those permissions at any time.
+
+On an ongoing basis, we also do a variety of manual and automated checks to ensure compliance with our policies and a positive experience for users. These include steps such as random audits of existing apps along with the regular and proactive monitoring of the fastest growing apps.
+
+We enforce our policies in a variety of ways — from working with developers to fix the problem, to suspending developers from our platform, to pursuing litigation.

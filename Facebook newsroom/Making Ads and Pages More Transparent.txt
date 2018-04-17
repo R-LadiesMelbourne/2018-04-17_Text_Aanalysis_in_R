@@ -1,0 +1,29 @@
+April 6, 2018
+
+Making Ads and Pages More Transparent
+By Rob Goldman, VP, Ads and Alex Himel, VP, Local & Pages
+
+We believe that when you visit a Page or see an ad on Facebook it should be clear who it’s coming from. We also think it’s important for people to be able to see the other ads a Page is running, even if they’re not directed at you. That’s why today we’re announcing important changes to the way we manage ads and Pages on Facebook as well as Instagram. These are designed to increase transparency and accountability, as well as prevent election interference.
+
+Increased Transparency and Accountability for Electoral and Issue Ads
+
+Last October, we announced that only authorized advertisers will be able to run electoral ads on Facebook or Instagram. And today, we’re extending that requirement to anyone that wants to show “issue ads” — like political topics that are being debated across the country. We are working with third parties to develop a list of key issues, which we will refine over time. To get authorized by Facebook, advertisers will need to confirm their identity and location. Advertisers will be prohibited from running political ads — electoral or issue-based — until they are authorized.
+
+In addition, these ads will be clearly labeled in the top left corner as “Political Ad.” Next to it we will show “paid for by” information. We started testing the authorization process this week, and people will begin seeing the label and additional information in the US later this spring.
+
+
+We’re also investing in artificial intelligence and adding more people to help find advertisers that should have gone through the authorization process but did not. We realize we won’t catch every ad that should be labeled, and we encourage anyone who sees an unlabeled political ad to report it. People can do this by tapping the three dots at the top right corner of the ad and selecting “Report Ad.”
+
+View Ads and Searchable Political Archive
+
+In Canada, we’ve been testing a new feature called view ads that lets you see the ads a Page is running — even if they are not in your News Feed. This applies to all advertiser Pages on Facebook — not just Pages running political ads. We plan to launch view ads globally in June.
+
+In June we also plan to release a public, searchable political ads archive. This will contain all ads with the “Political Ad” label, and will show the image and text, as well as additional information like the amount spent and demographic audience information for each ad.
+
+Increased Authenticity and Transparency for Pages
+
+Today, we’re also announcing that people who manage Pages with large numbers of followers will need to be verified. Those who manage large Pages that do not clear the process will no longer be able to post. This will make it much harder for people to administer a Page using a fake account, which is strictly against our policies. We will also show you additional context about Pages to effectively assess their content. For example, you can see whether a Page has changed its name.
+
+Why We’re Doing This
+
+We know we were slow to pick-up foreign interference in the 2016 US elections. Today’s updates are designed to prevent future abuse in elections — and to help ensure you have the information that you need to assess political and issue ads, as well as content on Pages. By increasing transparency around ads and Pages on Facebook, we can increase accountability for advertisers — improving our service for everyone.

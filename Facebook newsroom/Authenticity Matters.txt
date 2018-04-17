@@ -1,0 +1,20 @@
+April 3, 2018
+
+Authenticity Matters: The IRA Has No Place on Facebook
+By Alex Stamos, Chief Security Officer
+
+This morning we removed 70 Facebook and 65 Instagram accounts — as well as 138 Facebook Pages — that were controlled by the Russia-based Internet Research Agency (IRA). Many of the Pages also ran ads, all of which have been removed. Of the Pages that had content, the vast majority of them (95%) were in Russian — targeted either at people living in Russia or Russian-speakers around the world including from neighboring countries like Azerbaijan, Uzbekistan and Ukraine.
+
+
+
+Uncovering this activity took months of work by our team and I wanted to explain why we took this action.
+
+Facebook was built for conversation and human connection. It’s why we ask that people using our service be themselves — whether it’s an individual, a business or a nonprofit. Of course this isn’t always possible. Many human rights activists, for example, have to hide their true identities to stay safe. But we have worked hard to establish authenticity as a social norm because it’s at the heart of most meaningful connections on Facebook.
+
+The IRA has repeatedly used complex networks of inauthentic accounts to deceive and manipulate people who use Facebook, including before, during and after the 2016 US presidential elections. It’s why we don’t want them on Facebook. We removed this latest set of Pages and accounts solely because they were controlled by the IRA — not based on the content. This included commentary on domestic and international political issues, the promotion of Russian culture and tourism as well as debate on more everyday issues. Given the interest in the IRA, we’re releasing a sample of the Page posts and ads:
+
+
+
+We’d like to share more — and we’re looking into the best way to provide more transparency into what the IRA has done. In the next few weeks, we’ll be updating our Help Center tool so anyone can check if they liked or followed one of these Pages.
+
+The IRA has consistently used inauthentic accounts to deceive and manipulate people. It’s why we remove every account we find that is linked to the organization — whether linked to activity in the US, Russia or elsewhere. We know that the IRA — and other bad actors seeking to abuse Facebook — are always changing their tactics to hide from our security team. We expect we will find more, and if we do we will take them down too. But we’ll keep fighting and we’re investing heavily in more people and better technology to constantly improve safety on Facebook.
