@@ -1,0 +1,9 @@
+Information in this package is publicly available at https://www.kaggle.com/wcukierski/the-simpsons-by-the-data/version/1#_=_
+
+The dataset contains the characters, locations, episode details, and script lines for approximately 600 Simpsons episodes, dating back to 1989.
+
+Inspiration and credit for gathering the data goes to Todd Schneider:
+http://toddwschneider.com/posts/the-simpsons-by-the-data/ 
+https://github.com/toddwschneider/flim-springfield
+
+The tasks are adapted from https://www.kaggle.com/ambarish/fun-in-text-mining-with-simpsons

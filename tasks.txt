@@ -1,0 +1,18 @@
+Text mining with Simpson
+
+Grand Challenge
+
+You are given a number of tasks to be completed on the Simpsons data.
+
+0. Load ScriptsCharacters.csv and pre-process it to tokenize them and remove stop words
+
+1. Identify the top 20 most common words and show them in a bar graph.
+
+2 identify the top 70 most common words and show them in a word cloud
+
+3. investigate how often positive and negative words occurred in these Simpsons script lines. 
+Which characters were the most positive or negative overall?
+
+4. Use topic modeling, identify two topics and most common words in each topic
+What are those topics?
+
